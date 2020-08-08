@@ -1,0 +1,26 @@
+.xcontainer .x-tab-bar-default{
+    display: none !important;
+}
+.xcontainer .x-panel-bodyWrap{
+    border: 3px solid #f6f6f6;
+}
+.search-bar .btn-search{
+    width: 100px;
+}
+.btn-type-search{
+    height: 32px;
+    margin-left: 5px;
+}
+.input-search{
+    width: 400px;
+}
+.form-type .x-autocontainer-innerCt{
+    display: flex;
+    flex-direction: column;
+}
+.form-type .btn-save-add{
+    background-color: rgb(9, 248, 9);
+}
+.form-type .btn-cancel{
+    background-color: rgb(231, 24, 24);
+}

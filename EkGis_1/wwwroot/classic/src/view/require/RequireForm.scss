@@ -1,0 +1,89 @@
+
+.x-panel-header{    
+    font-size:16px;    
+    color: black;
+    background-color: #fff;
+}
+.x-title-text{
+    color: blue;
+    font-weight: bold;
+}
+.x-fa{
+    color:#11f711 !important;
+    cursor: pointer;
+}
+
+.container-form{
+    display: flex;
+    justify-content: space-around;
+}
+.f-set{
+    display: flex;
+    flex-wrap: wrap;
+}
+.f-set .x-form-item-label-text{
+    margin-left: 5px;
+}
+.x-autocontainer-innerCt{
+    display: flex;
+    flex-wrap: wrap;
+    // justify-content: space-around;
+}
+.btn-add{
+    margin: 30px 50px 0 0;
+
+}
+.btn-s-new{
+    margin:0 5px 5px 60px;
+    height: 30px;
+}
+.btn-search{
+    // margin-left: 30px;
+    height: 30px;
+}
+.key-search{
+    width: 320px;
+    max-width: 500px !important;
+}
+.btn{
+    background-color: #5fa2dd;
+    // color: white !important;
+}
+.btn .x-btn-inner-plain-toolbar-small{
+    color: white;
+}
+.btn .fas,.btn .far{
+    color: white;
+}
+.btn-del{
+    background-color: #a9b313;
+}
+.btn-del .fas{
+    color:white;
+}
+.header-title-cls .x-title-text{
+    color: white !important;
+}
+.infor .x-autocontainer-innerCt{
+    display: flex;
+    flex-direction: column;
+}
+.custom-input .x-form-trigger-wrap-default{
+    border: none;
+    color: blue;
+}
+.custom-input .x-form-text-default{
+    background-color: #f6f6f6;
+}
+.custom-input .x-form-text-default{
+    color: #2b65bb;
+}
+//////button custom
+.btn-danger{
+    background-color: #a50202;
+    color: white;
+}
+.btn-orange{
+    background-color: orange;
+    color: white;
+}
